@@ -3,6 +3,9 @@
 
 Simple todo list cli written in rust.
 
+Make sure a file called ```todo.txt``` is in the directory of the executable.
+Or use the add command to create the file (del and show don't create the file). 
+
 # Usage
 
 ```text
